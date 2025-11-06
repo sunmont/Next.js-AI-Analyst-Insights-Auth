@@ -113,6 +113,9 @@ analytics-pro/
 ├── package.json        # Project dependencies and scripts
 └── tsconfig.json       # TypeScript configuration
 ```
+<img width="1380" height="797" alt="image" src="https://github.com/user-attachments/assets/4809c337-926c-4f4c-8983-dc16f009aad1" />
+
+
 
 ## Contributing
 
