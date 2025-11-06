@@ -114,8 +114,8 @@ analytics-pro/
 └── tsconfig.json       # TypeScript configuration
 ```
 <img width="1380" height="797" alt="image" src="https://github.com/user-attachments/assets/4809c337-926c-4f4c-8983-dc16f009aad1" />
-
-
+<img width="1430" height="1313" alt="image" src="https://github.com/user-attachments/assets/ad30631b-4838-4d57-aa09-a085fc5282f5" />
+<img width="1416" height="1072" alt="image" src="https://github.com/user-attachments/assets/55463cf9-e2de-4463-88fc-41665395160f" />
 
 ## Contributing
 
