@@ -60,7 +60,7 @@ Make sure you have the following installed:
     DATABASE_URL="file:./prisma/dev.db"
     NEXTAUTH_SECRET="YOUR_NEXTAUTH_SECRET"
     NEXTAUTH_URL="http://localhost:3000"
-    OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+    GOOGLE_GENERATIVE_AI_API_KEY="YOUR_GOOGLE_GENERATIVE_AI_API_KEY"
     ```
 
     *   `DATABASE_URL`: Connection string for your database. For development, it's configured to use a local SQLite file.
