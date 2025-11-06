@@ -66,7 +66,7 @@ Make sure you have the following installed:
     *   `DATABASE_URL`: Connection string for your database. For development, it's configured to use a local SQLite file.
     *   `NEXTAUTH_SECRET`: A random string used to hash tokens, sign/encrypt cookies, and generate a csrf token. You can generate one using `openssl rand -base64 32`.
     *   `NEXTAUTH_URL`: The URL of your application.
-    *   `OPENAI_API_KEY`: Your API key for OpenAI services, used for AI features.
+    *   `GOOGLE_GENERATIVE_AI_API_KEY`: Your API key for GOOGLE GENERATIVE services, used for AI features.
 
 4.  **Initialize the database:**
 
